@@ -52,6 +52,43 @@ Use the full flow for ambiguous, cross-cutting, user-visible, security-sensitive
 
 Domain skills such as `fullstack-feature`, `backend-api`, `frontend-ui`, and `devops-deploy` are implementation-phase skills. Use `spec` and `plan` first when the work changes contracts, schemas, user-visible behavior, multiple files, or operational invariants.
 
+## Install
+
+Install AgentStack from GitHub with the `skills` CLI:
+
+```bash
+npx skills add Faiyajz/agentstack
+```
+
+For local Codex testing without the `skills` CLI, clone the repo and copy the skills into Codex's skills directory:
+
+```bash
+git clone https://github.com/Faiyajz/agentstack.git
+cd agentstack
+mkdir -p ~/.codex/skills
+cp -r skills/* ~/.codex/skills/
+```
+
+Restart your agent after installing so it reloads the skill metadata.
+
+## Update
+
+If installed with the `skills` CLI:
+
+```bash
+npx skills update
+```
+
+If installed by copying into Codex manually:
+
+```bash
+cd agentstack
+git pull
+cp -r skills/* ~/.codex/skills/
+```
+
+Restart your agent after updating.
+
 ## Invoking Skills
 
 Install or expose the skills through your agent host. When command namespaces are available, use:
