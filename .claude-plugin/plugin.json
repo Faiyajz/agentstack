@@ -1,0 +1,8 @@
+{
+  "name": "agentstack",
+  "description": "Open AI agent skills for software engineering: product, architecture, fullstack, backend, frontend, DevOps, security, interviews, and delivery workflows.",
+  "version": "0.2.0",
+  "author": {
+    "name": "AgentStack contributors"
+  }
+}
