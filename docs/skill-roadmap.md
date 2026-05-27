@@ -28,6 +28,7 @@ AgentStack should stay broad enough for real software careers, but focused enoug
 - `coding-interview`: algorithms, debugging, live coding, and communication practice.
 - `system-design-interview`: architecture, scale, data, reliability, and tradeoff practice.
 - `behavioral-interview`: STAR stories, leadership, conflict, ownership, and project narratives.
+- `technical-article`: researched technical writing with verified examples and optional author voice.
 - Future: `engineering-manager`, `project-manager`, `resume-review`.
 
 ## Suggested Future Skills
