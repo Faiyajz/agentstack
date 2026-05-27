@@ -32,6 +32,7 @@ Exploration is allowed without creating docs or issue tracker entries. Do not ma
 - `system-design-interview`: run architecture, scale, and tradeoff interview practice.
 - `behavioral-interview`: prepare leadership, ownership, impact, and project stories.
 - `technical-article`: write researched technical articles with verified examples and optional author voice.
+- `dsa-teacher`: teach DSA and competitive programming problems step by step with practice sets.
 - `refactor`: simplify changed code without changing behavior.
 - `review`: pre-merge review for correctness, security, simplicity, robustness, and tests.
 - `address-pr-feedback`: fetch GitHub PR feedback, judge each comment, fix valid issues, and verify.

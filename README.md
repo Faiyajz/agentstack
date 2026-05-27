@@ -26,6 +26,7 @@ The goal is simple: give agents clear, reusable operating procedures that produc
 | Security | `security-review` | Review code, config, and workflows for practical security risk |
 | Quality | `refactor`, `review`, `address-pr-feedback` | Improve code shape, review changes, and handle PR feedback |
 | Writing | `technical-article` | Write researched technical articles with verified examples and optional author voice |
+| Learning | `dsa-teacher` | Teach DSA and competitive programming problems step by step with practice sets |
 | Career | `interview-prep`, `coding-interview`, `system-design-interview`, `behavioral-interview` | Prepare for role strategy, coding, system design, behavioral, leadership, and project interviews |
 | Git | `branch`, `commit` | Keep branches and commits traceable |
 
@@ -113,6 +114,7 @@ Install or expose the skills through your agent host. When command namespaces ar
 /agentstack:system-design-interview
 /agentstack:behavioral-interview
 /agentstack:technical-article
+/agentstack:dsa-teacher
 /agentstack:review
 /agentstack:commit
 ```
@@ -141,6 +143,7 @@ The standalone skill names are the stable vocabulary. Host-specific slash comman
 | `system-design-interview` | Runs architecture and scaling interview practice | `Mock a senior system design interview` |
 | `behavioral-interview` | Shapes and practices leadership, impact, and project stories | `Practice ownership stories for staff engineer interviews` |
 | `technical-article` | Writes researched technical articles with runnable examples | `Write a tutorial about cursor pagination in FastAPI` |
+| `dsa-teacher` | Explains DSA and competitive programming problems step by step | `Teach Codeforces 1200 two pointers with 20 similar questions` |
 | `refactor` | Simplifies changed code without behavior changes | `Refactor the current diff` |
 | `review` | Reviews code for correctness, security, simplicity, and tests | `Review the current diff` |
 | `address-pr-feedback` | Triage and address GitHub PR feedback | `Address PR feedback on #42` |

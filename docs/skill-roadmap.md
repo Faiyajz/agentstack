@@ -29,6 +29,7 @@ AgentStack should stay broad enough for real software careers, but focused enoug
 - `system-design-interview`: architecture, scale, data, reliability, and tradeoff practice.
 - `behavioral-interview`: STAR stories, leadership, conflict, ownership, and project narratives.
 - `technical-article`: researched technical writing with verified examples and optional author voice.
+- `dsa-teacher`: beginner-friendly DSA and competitive programming explanations, practice sets, and rated problem paths.
 - Future: `engineering-manager`, `project-manager`, `resume-review`.
 
 ## Suggested Future Skills
